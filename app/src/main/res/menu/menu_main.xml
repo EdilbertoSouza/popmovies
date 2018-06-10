@@ -1,0 +1,14 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/action_favorite"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/action_popular"
+        android:title="@string/action_popular"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_signout"
+        android:title="@string/action_signout"
+        app:showAsAction="never" />
+</menu>

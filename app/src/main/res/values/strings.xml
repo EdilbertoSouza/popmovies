@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="action_favorite">Listar Filmes Favoritos</string>
+    <string name="action_popular">Listar Filmes Populares</string>
+    <string name="action_signout">Sair</string>
+    <string name="movie_activity">Pop Movies - Detalhes</string>
+    <string name="bt_login">Entrar</string>
+    <string name="bt_create">Criar Conta</string>
+</resources>
